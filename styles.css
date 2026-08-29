@@ -532,6 +532,14 @@ a{ color:inherit; }
   font-style:italic;
 }
 
+.footer-status{
+  margin:10px 0 0;
+  color:var(--muted);
+  font-family:var(--font-mono);
+  font-size:0.72rem;
+  letter-spacing:0.04em;
+}
+
 .footer-links{
   display:flex;
   flex-direction:column;
